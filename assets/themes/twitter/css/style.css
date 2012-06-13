@@ -1,6 +1,6 @@
 /* Override some defaults */
 html, body {
-  background-color: #eee;
+  background-color: #341d1a;
 }
 .navbar {
   margin-bottom: 0;
@@ -61,7 +61,7 @@ html, body {
 }
 .tag_box a span{
 	vertical-align:super;
-	font-size:0.8em;
+	font-size:1.5em;
 }
 .tag_box a.active {
 	background:#57A957;
