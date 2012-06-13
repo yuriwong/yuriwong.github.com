@@ -14,7 +14,7 @@ html, body {
 
 /* The white background content wrapper */
 .content {
-  background-color: #05a7ba;
+  background-color: #fff;
   padding: 20px;
   margin: 0 -20px; /* negative indent the amount of the padding to maintain the grid system */
   -webkit-border-radius: 0 0 6px 6px;
@@ -61,11 +61,11 @@ html, body {
 }
 .tag_box a span{
 	vertical-align:super;
-	font-size:1.5em;
+	font-size:0.8em;
 }
 .tag_box a.active {
 	background:#57A957;
-	border:1px solid #4C964D;
+	border:2px solid #4C964D;
 	color:#FFF;
 }
 	
