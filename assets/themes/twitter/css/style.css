@@ -1,9 +1,9 @@
 /* Override some defaults */
 html, body {
-  background-color: #341d1a;
+  background-color: #7c7777;
 }
 .navbar {
-  margin-bottom: 0;
+  margin-bottom: 1;
 }
 .container > footer {
   margin-top: 20px;
