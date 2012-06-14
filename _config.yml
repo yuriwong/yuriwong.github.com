@@ -81,7 +81,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : Yuri Wong
+      short_name : yuriwong
     livefyre :
       site_id : 123
     intensedebate :
