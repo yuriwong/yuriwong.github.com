@@ -10,7 +10,7 @@ tags: [关于, 博客, Yuri, blog]
 **关于博客**
 
 * 博客网址：[http://yuriwong.github.io](http://yuriwong.github.io/)
-* RSS 订阅：[http://feed.yuriwong.github.io](http://feed.yuriwong.github.io/)
+* RSS 订阅：[http://yuriwong.github.io/atom.xml](http://yuriwong.github.io/atom.xml)
 
 这是 Yuri 的个人博客，记录学习工作生活的点点滴滴。
 
